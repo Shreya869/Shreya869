@@ -1,9 +1,5 @@
+
 ### Hi there 👋
-
-<!--
-**Shreya869/Shreya869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 I'm an aspiring Data scientist and an intuitive Software developer who is passionate about solving real world problems using technology.
 
@@ -27,7 +23,7 @@ I enjoy meeting new people and hearing new perspectives. So reach out to me if y
 - 📫 How to reach me ... [E-mail](jayant.shreya@gmail.com) or [LinkedIn Profile](https://www.linkedin.com/in/shreyajayant20)
 - 📝 What I write ... [Medium Profile](https://medium.com/@jayant.shreya)
 - ⚡ Fun fact: ...I'm a certified classical dancer (Kathak)
--->
+
  
 
 <img
