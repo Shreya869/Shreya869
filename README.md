@@ -5,7 +5,7 @@
 
 
 
-I'm an aspiring Data scientist and an intuitive Software developer who is passionate about solving real world problems using technology.
+<h4>I'm an aspiring Data scientist and an intuitive Software developer who is passionate about solving real world problems using technology.
 
 I've grown my skills in data visualization using python and have made multiple projects that depict how utilizing given data in the correct way,
 we can glean insights to solve a problem.
@@ -17,7 +17,7 @@ Software Engineering is a never ending puzzle that I am passionately engaged in 
 
 I'm also a content creator and love to play with the power of words in my free time.
 
-I enjoy meeting new people and hearing new perspectives. So reach out to me if you want to chat about solving problems, emerging tech or your love of music! 
+I enjoy meeting new people and hearing new perspectives. So reach out to me if you want to chat about solving problems, emerging tech or your love of music! </h4>
 
 
 - 🔭 I’m currently working on ...React JS, Firebase
