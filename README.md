@@ -3,7 +3,8 @@
 <!--
 **Shreya869/Shreya869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+<html>
+<body>
 
 <p>I'm an aspiring Data scientist and an intuitive Software developer who is passionate about solving real world problems using technology.
 
@@ -114,3 +115,5 @@ src="https://github-readme-stats.vercel.app/api?username=Shreya869&show_icons=tr
 
 </tbody>
 </table>
+</body>
+</html>
