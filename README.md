@@ -81,7 +81,7 @@ src="https://github-readme-stats.vercel.app/api?username=Shreya869&show_icons=tr
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img src="https://img.icons8.com/clouds/100/000000/office-365.png " width="50" height="60"/>
+<img src="https://img.icons8.com/clouds/100/000000/office-365.png" width="50" height="60"/>
 </td>
 
 <td align="center" width="20%">
@@ -98,7 +98,7 @@ src="https://github-readme-stats.vercel.app/api?username=Shreya869&show_icons=tr
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img src="https://img.icons8.com/ios-filled/50/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
 </td>
 
 <td align="center" width="20%">
