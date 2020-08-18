@@ -1,19 +1,20 @@
 
 ### Hi there 👋
 
-I'm an aspiring Data scientist and an intuitive Software developer who is passionate about solving real world problems using technology.
+I'm an intuitive Software developer and Entrepreneur who is passionate about solving real world problems using technology.
 
-I've grown my skills in data visualization using python and have made multiple projects that depict how utilizing given data in the correct way,
+I've grown my skills in various technological stacks and have made multiple projects that depict how utilizing given technology in the correct way,
 we can glean insights to solve a problem.
 
 Ever since writing my first program in C and manipulating it to produce a desired output, 
 I have been obsessed with the idea of using software to solve practical problems. 
 
 Software Engineering is a never ending puzzle that I am passionately engaged in solving.
+Entrepreneurship is something that has made me realize my potential and put it to good use.
 
 I'm also a content creator and love to play with the power of words in my free time.
 
-I enjoy meeting new people and hearing new perspectives. So reach out to me if you want to chat about solving problems, emerging tech or your love of music! </p>
+I enjoy meeting new people and hearing new perspectives. So reach out to me if you want to chat about solving problems, emerging tech, startups or your love of music! </p>
 
 
 - 🔭 I’m currently working on ...React JS, Firebase
@@ -23,7 +24,7 @@ I enjoy meeting new people and hearing new perspectives. So reach out to me if y
 - 📫 How to reach me ... [E-mail](jayant.shreya@gmail.com) or [LinkedIn Profile](https://www.linkedin.com/in/shreyajayant20)
 - 📝 What I write ... [Medium Profile](https://medium.com/@jayant.shreya)
 - ⚡ Fun fact: ...I'm a certified classical dancer (Kathak)
-
+- ⚡ Favourite Quote: ..."The intention is not to avoid mistakes but to make sure that we manage them and learn from them. I would rather fail in action than because of inaction."
  
 
 <img
