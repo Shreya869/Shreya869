@@ -24,7 +24,7 @@ I enjoy meeting new people and hearing new perspectives. So reach out to me if y
 - 📫 How to reach me ... [E-mail](jayant.shreya@gmail.com) or [LinkedIn Profile](https://www.linkedin.com/in/shreyajayant20)
 - 📝 What I write ... [Medium Profile](https://medium.com/@jayant.shreya)
 - ⚡ Fun fact: ...I'm a certified classical dancer (Kathak)
-- ⚡ Favourite Quote: ..."The intention is not to avoid mistakes but to make sure that we manage them and learn from them. I would rather fail in action than because of inaction."
+- ⚡ Favourite Quote: ..."It's a slow process but quitting wont speed it up"
  
 
 <img
