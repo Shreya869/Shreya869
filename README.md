@@ -17,7 +17,7 @@ I'm also a content creator and love to play with the power of words in my free t
 I enjoy meeting new people and hearing new perspectives. So reach out to me if you want to chat about solving problems, emerging tech, startups or your love of music! </p>
 
 
-- 🔭 I’m currently working on ...React JS, Firebase
+- 🔭 I’m currently working on ...Data Science
 - 🌱 I’m currently learning ... Microsoft Azure Fundamentals
 - 👯 I’m looking to collaborate on ... Micrsoft Learn Student Ambassador Projects/Activities
 - 💬 Ask me about ...Emerging Tech, Startups, Books.
