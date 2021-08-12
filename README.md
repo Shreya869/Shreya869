@@ -68,11 +68,7 @@ src="https://github-readme-stats.vercel.app/api?username=Shreya869&show_icons=tr
 <img src="https://img.icons8.com/nolan/48/ms-excel.png" width="65" height="65"/> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center></center></b></span>
-<img src="https://img.icons8.com/plasticine/64/000000/react.png"/>
-</td>
-</tr>
+
 
 <tr>
 <td align="center" width="20%">
