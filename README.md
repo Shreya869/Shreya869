@@ -1,26 +1,25 @@
 
 ### Hi there 👋
 
-I'm an intuitive Software developer and Entrepreneur who is passionate about solving real world problems using technology.
+About me: I write stuff, and obsess over books + products.
 
-I've grown my skills in various technological stacks and have made multiple projects that depict how utilizing given technology in the correct way,
-we can glean insights to solve a problem.
+My childhood consisted of constantly asking those "why" questions all the time and as an adult, I haven't stopped.
 
-Ever since writing my first program in C and manipulating it to produce a desired output, 
-I have been obsessed with the idea of using software to solve practical problems. 
+I'm the person who likes to get into the details. I try to make logical decisions based on facts (but mostly fail to), and must have everything organized and planned out.
 
-Software Engineering is a never ending puzzle that I am passionately engaged in solving.
-Entrepreneurship is something that has made me realize my potential and put it to good use.
+Stumbled into Product Management couple of months ago and now my daily life involves getting to know every info available out there about this amazing field :)
+
+I work by the philosophy: The most powerful step that anyone can take to turn their dreams into a reality is a simple one: you just need to start. The only real way to find out if your idea is a good one is to do it. You'll learn more in one hour of doing something than in a lifetime of thinking about it.
 
 I'm also a content creator and love to play with the power of words in my free time.
 
-I enjoy meeting new people and hearing new perspectives. So reach out to me if you want to chat about solving problems, emerging tech, startups or your love of music! </p>
+I enjoy meeting people and hearing new perspectives. So, reach out to me if you want to chat about products, music or just need an ear :)  </p>
 
 
-- 🔭 I’m currently working on ...Data Science
-- 🌱 I’m currently learning ... Microsoft Azure Fundamentals
+- 🔭 I’m currently working on ...Data Analytics
+- 🌱 I’m currently learning ... Product Management
 - 👯 I’m looking to collaborate on ... Micrsoft Learn Student Ambassador Projects/Activities
-- 💬 Ask me about ...Emerging Tech, Startups, Books.
+- 💬 Ask me about ...Products or what I'm currently reading :)
 - 📫 How to reach me ... [E-mail](jayant.shreya@gmail.com) or [LinkedIn Profile](https://www.linkedin.com/in/shreyajayant20)
 - 📝 What I write ... [Medium Profile](https://medium.com/@jayant.shreya)
 - ⚡ Fun fact: ...I'm a certified classical dancer (Kathak)
