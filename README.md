@@ -17,7 +17,7 @@ I enjoy meeting people and hearing new perspectives. So, reach out to me if you 
 - 🔭 I’m currently working on ... reducing number of meetings a person has in a day at @mycheckins.
 - 🌱 I’m currently learning ... nuances of product thinking
 - 👯 I’m looking to collaborate on ... building something with art + tech, for example fusion of dance + product. 
-- 💬 Ask me about ...Products or what I'm currently reading :)
+- 💬 Ask me about ...the book I'm writing that involves a duck and a timetraveller :)
 - 📫 How to reach me ... [E-mail](jayant.shreya@gmail.com) or [LinkedIn Profile](https://www.linkedin.com/in/shreyajayant20)
 - 📝 What I write ... [Medium Profile](https://medium.com/@jayant.shreya)
 - ⚡ Fun fact: ...I'm a certified classical dancer (Kathak)
