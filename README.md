@@ -4,7 +4,7 @@
 About me: I write stuff, and obsess over books + products.
 
 
-- 🔭 I’m currently working on - reducing number of meetings a person has in a day at @mycheckins.
+- 🔭 I’m currently working on - reducing number of meetings a person has in a day @mycheckins.
 - 🌱 I’m currently learning - nuances of product thinking.
 - 👯 I’m looking to collaborate on - building something with art + tech, for example fusion of dance + product. 
 - 💬 Ask me about - the book I'm writing that involves a duck and a timetraveller :)
